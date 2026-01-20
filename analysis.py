@@ -6,4 +6,4 @@ def farewell(name):
 if __name__ == "__main__":
     print(greet("World"))
     print(farewell("Student"))
-    Print("exiting")
+    print("exiting")
